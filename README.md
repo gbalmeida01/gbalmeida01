@@ -6,9 +6,9 @@ System.out.println("Hello World! 😆");
 
 ---
 
-👨‍💻 Software Engineer/Data Analyst
-🎓 Studying Systems Analysis and Development at PUC Minas
-📖 Certifications by Alura and Udemy
+👨‍💻 Software Engineer/Data Analyst<br>  
+🎓 Studying Systems Analysis and Development at PUC Minas<br>  
+📖 Certifications by Alura and Udemy<br>  
 
 ---
 
