@@ -5,7 +5,7 @@ System.out.println("Hello World! 😆");
 ``
 
 👨‍💻 Software Engineer/Data Analyst<br>  
-🎓 Studying Systems Analysis and Development at PUC Minas<br>  
+🎓 Studying Systems Analysis and Development at Anhembi Morumbi<br>  
 📖 Certifications by Alura and Udemy<br>  
 
 ---
