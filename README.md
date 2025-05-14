@@ -10,4 +10,4 @@ System.out.println("Hello World! 😆");
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,js,html,css,react)](https://skillicons.dev)
